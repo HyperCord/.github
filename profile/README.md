@@ -1,5 +1,5 @@
 # HyperCord
-![](profile/Assets/hypercordapp.png) 
+![](Assets/hypercordapp.png) 
 # Links
 - [🖼️Download HyperCord](https://hypercord.github.io/download)
 - [📰Terms](https://hypercord.github.io/terms)

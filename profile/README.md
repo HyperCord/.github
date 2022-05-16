@@ -6,5 +6,5 @@
 - [🕵️‍♂️Privacy](https://hypercord.github.io/privacy)
 # Social
 - [🐦Twitter](https://twitter.com/HyperCordApp)
-- [💬Discord](https://discord.gg/t4emYtbKXe)
+- [📸YouTube](https://www.youtube.com/channel/UCxtAp99OigBxCDqPObGAciA)
 - [💻Github](https://github.com/HyperCord)
